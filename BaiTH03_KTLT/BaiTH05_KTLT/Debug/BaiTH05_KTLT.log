@@ -1,0 +1,21 @@
+﻿  5.2_KTLT.cpp
+  5.3_KTLT.cpp
+C:\Users\admin\source\repos\BaiTH03_KTLT\BaiTH05_KTLT\5.3_KTLT.cpp(9,13): warning C4101: 'y': unreferenced local variable
+  5.5_KTLT.cpp
+  5.6_KTLT.cpp
+  5.7_KTLT.cpp
+  BaiTH05_KTLT.cpp
+  Generating Code...
+C:\Users\admin\source\repos\BaiTH03_KTLT\BaiTH05_KTLT\5.6_KTLT.cpp(10): warning C4715: 'cal': not all control paths return a value
+  LINK : C:\Users\admin\source\repos\BaiTH03_KTLT\Debug\BaiTH05_KTLT.exe not found or not built by the last incremental link; performing full link
+5.3_KTLT.obj : error LNK2005: _main already defined in 5.2_KTLT.obj
+5.4_KTLT.obj : error LNK2005: _main already defined in 5.2_KTLT.obj
+5.5_KTLT.obj : error LNK2005: _main already defined in 5.2_KTLT.obj
+5.6_KTLT.obj : error LNK2005: _main already defined in 5.2_KTLT.obj
+5.7_KTLT.obj : error LNK2005: _main already defined in 5.2_KTLT.obj
+BaiTH05_KTLT.obj : error LNK2005: "void __cdecl print(void)" (?print@@YAXXZ) already defined in 5.2_KTLT.obj
+BaiTH05_KTLT.obj : error LNK2005: "void __cdecl process(int)" (?process@@YAXH@Z) already defined in 5.2_KTLT.obj
+BaiTH05_KTLT.obj : error LNK2005: _main already defined in 5.2_KTLT.obj
+BaiTH05_KTLT.obj : error LNK2005: "int * x" (?x@@3PAHA) already defined in 5.2_KTLT.obj
+BaiTH05_KTLT.obj : error LNK2005: "int n" (?n@@3HA) already defined in 5.2_KTLT.obj
+C:\Users\admin\source\repos\BaiTH03_KTLT\Debug\BaiTH05_KTLT.exe : fatal error LNK1169: one or more multiply defined symbols found

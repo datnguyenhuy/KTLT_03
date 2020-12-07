@@ -1,0 +1,6 @@
+﻿  4.10_KTLT.cpp
+C:\Users\admin\source\repos\BaiTH03_KTLT\BaiTH04_KTLT\4.10_KTLT.cpp(152,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\admin\source\repos\BaiTH03_KTLT\BaiTH04_KTLT\4.10_KTLT.cpp(155,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\admin\source\repos\BaiTH03_KTLT\BaiTH04_KTLT\4.10_KTLT.cpp(158,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\admin\source\repos\BaiTH03_KTLT\BaiTH04_KTLT\4.10_KTLT.cpp(162,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  BaiTH04_KTLT.vcxproj -> C:\Users\admin\source\repos\BaiTH03_KTLT\Debug\BaiTH04_KTLT.exe
